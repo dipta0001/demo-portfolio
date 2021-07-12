@@ -3,7 +3,7 @@ margin: 0;}
 h1{font-size: 50px;}
 .orange-color{color: orange;
 }
-section{
+.flexible-container{
     display: flex;
 }
 .half-width{
