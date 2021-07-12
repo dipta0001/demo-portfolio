@@ -26,6 +26,29 @@ h1{font-size: 50px;}
     background-repeat: no-repeat;
 }
 .dream-big{
-    background-image: url(images/my-bg2.png);
+    background-image: url(images/);
     background-repeat: no-repeat;
+}
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 30px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 20px green;
+}
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-web-dev{
+    border-left: 10px solid;
+    border-radius: 10px;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+
+}
+footer p{
+    text-align: center;
 }
